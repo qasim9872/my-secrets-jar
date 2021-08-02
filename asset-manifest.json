@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/my-secrets-jar/static/js/main.b5a491cb.chunk.js",
+    "main.js.map": "/my-secrets-jar/static/js/main.b5a491cb.chunk.js.map",
+    "runtime-main.js": "/my-secrets-jar/static/js/runtime-main.aa28f80f.js",
+    "runtime-main.js.map": "/my-secrets-jar/static/js/runtime-main.aa28f80f.js.map",
+    "static/js/2.9fcb21bb.chunk.js": "/my-secrets-jar/static/js/2.9fcb21bb.chunk.js",
+    "static/js/2.9fcb21bb.chunk.js.map": "/my-secrets-jar/static/js/2.9fcb21bb.chunk.js.map",
+    "index.html": "/my-secrets-jar/index.html",
+    "static/js/2.9fcb21bb.chunk.js.LICENSE.txt": "/my-secrets-jar/static/js/2.9fcb21bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa28f80f.js",
+    "static/js/2.9fcb21bb.chunk.js",
+    "static/js/main.b5a491cb.chunk.js"
+  ]
+}
