@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/my-secrets-jar/static/js/main.b5a491cb.chunk.js",
-    "main.js.map": "/my-secrets-jar/static/js/main.b5a491cb.chunk.js.map",
+    "main.css": "/my-secrets-jar/static/css/main.a7b25bc3.chunk.css",
+    "main.js": "/my-secrets-jar/static/js/main.dc8a499a.chunk.js",
+    "main.js.map": "/my-secrets-jar/static/js/main.dc8a499a.chunk.js.map",
     "runtime-main.js": "/my-secrets-jar/static/js/runtime-main.aa28f80f.js",
     "runtime-main.js.map": "/my-secrets-jar/static/js/runtime-main.aa28f80f.js.map",
-    "static/js/2.9fcb21bb.chunk.js": "/my-secrets-jar/static/js/2.9fcb21bb.chunk.js",
-    "static/js/2.9fcb21bb.chunk.js.map": "/my-secrets-jar/static/js/2.9fcb21bb.chunk.js.map",
+    "static/js/2.3f22ff86.chunk.js": "/my-secrets-jar/static/js/2.3f22ff86.chunk.js",
+    "static/js/2.3f22ff86.chunk.js.map": "/my-secrets-jar/static/js/2.3f22ff86.chunk.js.map",
     "index.html": "/my-secrets-jar/index.html",
-    "static/js/2.9fcb21bb.chunk.js.LICENSE.txt": "/my-secrets-jar/static/js/2.9fcb21bb.chunk.js.LICENSE.txt"
+    "static/css/main.a7b25bc3.chunk.css.map": "/my-secrets-jar/static/css/main.a7b25bc3.chunk.css.map",
+    "static/js/2.3f22ff86.chunk.js.LICENSE.txt": "/my-secrets-jar/static/js/2.3f22ff86.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aa28f80f.js",
-    "static/js/2.9fcb21bb.chunk.js",
-    "static/js/main.b5a491cb.chunk.js"
+    "static/js/2.3f22ff86.chunk.js",
+    "static/css/main.a7b25bc3.chunk.css",
+    "static/js/main.dc8a499a.chunk.js"
   ]
 }
