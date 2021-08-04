@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/my-secrets-jar/static/js/main.8ad87772.chunk.js",
-    "main.js.map": "/my-secrets-jar/static/js/main.8ad87772.chunk.js.map",
+    "main.js": "/my-secrets-jar/static/js/main.9683e09d.chunk.js",
+    "main.js.map": "/my-secrets-jar/static/js/main.9683e09d.chunk.js.map",
     "runtime-main.js": "/my-secrets-jar/static/js/runtime-main.aa28f80f.js",
     "runtime-main.js.map": "/my-secrets-jar/static/js/runtime-main.aa28f80f.js.map",
-    "static/js/2.749adacc.chunk.js": "/my-secrets-jar/static/js/2.749adacc.chunk.js",
-    "static/js/2.749adacc.chunk.js.map": "/my-secrets-jar/static/js/2.749adacc.chunk.js.map",
+    "static/js/2.85f41155.chunk.js": "/my-secrets-jar/static/js/2.85f41155.chunk.js",
+    "static/js/2.85f41155.chunk.js.map": "/my-secrets-jar/static/js/2.85f41155.chunk.js.map",
     "index.html": "/my-secrets-jar/index.html",
-    "static/js/2.749adacc.chunk.js.LICENSE.txt": "/my-secrets-jar/static/js/2.749adacc.chunk.js.LICENSE.txt"
+    "static/js/2.85f41155.chunk.js.LICENSE.txt": "/my-secrets-jar/static/js/2.85f41155.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aa28f80f.js",
-    "static/js/2.749adacc.chunk.js",
-    "static/js/main.8ad87772.chunk.js"
+    "static/js/2.85f41155.chunk.js",
+    "static/js/main.9683e09d.chunk.js"
   ]
 }
